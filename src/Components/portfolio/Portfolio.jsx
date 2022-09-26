@@ -27,14 +27,14 @@ const data = [
     image: Img3,
     title: "Medipure",
     github: "www.github.com",
-    demo: "medipureclinical",
+    demo: "https://medipureclinical.com/"
   },
   {
     id: 4,
     image: Img4,
     title: "EvolutionNetwork",
     github: "www.github.com",
-    demo: "medipureclinical.com",
+    demo: "https://ast0m.github.io/evolution.network"
   },
   {
     id: 5,
