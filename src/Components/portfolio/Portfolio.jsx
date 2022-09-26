@@ -13,7 +13,7 @@ const data = [
     image: Img1,
     title: "Fidelity bots",
     github: "www.github.com",
-    demo: "https://www.fidelitybots.con",
+    demo: "https://www.fidelitybots.com",
   },
   {
     id: 2,
