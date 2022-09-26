@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//ast0m.github.io/Portfolio_react/static/css/main.0ee78d75.css",
+    "main.js": "//ast0m.github.io/Portfolio_react/static/js/main.0ac58ca4.js",
+    "static/media/cv.pdf": "//ast0m.github.io/Portfolio_react/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/evolution.png": "//ast0m.github.io/Portfolio_react/static/media/evolution.aea2e3e18fd563b6c644.png",
+    "static/media/medipure.png": "//ast0m.github.io/Portfolio_react/static/media/medipure.b3ad8a5945d4e1f7278c.png",
+    "static/media/me.png": "//ast0m.github.io/Portfolio_react/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/smartnet.png": "//ast0m.github.io/Portfolio_react/static/media/smartnet.271d9b2a363eef43c177.png",
+    "static/media/fidelity.png": "//ast0m.github.io/Portfolio_react/static/media/fidelity.93d9c72d7540e73f66b1.png",
+    "static/media/me-about.jpg": "//ast0m.github.io/Portfolio_react/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "//ast0m.github.io/Portfolio_react/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio6.jpg": "//ast0m.github.io/Portfolio_react/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "index.html": "//ast0m.github.io/Portfolio_react/index.html",
+    "main.0ee78d75.css.map": "//ast0m.github.io/Portfolio_react/static/css/main.0ee78d75.css.map",
+    "main.0ac58ca4.js.map": "//ast0m.github.io/Portfolio_react/static/js/main.0ac58ca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ee78d75.css",
+    "static/js/main.0ac58ca4.js"
+  ]
+}
