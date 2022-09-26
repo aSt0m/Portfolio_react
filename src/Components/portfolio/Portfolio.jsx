@@ -13,14 +13,14 @@ const data = [
     image: Img1,
     title: "Fidelity bots",
     github: "www.github.com",
-    demo: "www.fidelitybots.con",
+    demo: "https://www.fidelitybots.con",
   },
   {
     id: 2,
     image: Img2,
     title: "SmartNet",
     github: "www.github.com",
-    demo: "www.smartnet.network",
+    demo: "https://www.smartnet.network",
   },
   {
     id: 3,

@@ -104,7 +104,7 @@ export const Experience = () => {
             <article className="experience__details">
               <GrReactjs className="experience__details-icons" />
               <div>
-                <h4>React</h4>
+                <h4>GoogleCloud</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
