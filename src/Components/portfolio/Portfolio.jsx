@@ -62,7 +62,7 @@ export const Portfolio = () => {
           return (
             <article key='id' className="portfolio__item">
               <div className="portfolio__item-image">
-                <img src={image} alt={title} />
+                <img src={image} alt={title}  />
               </div>
               <h3 className="portfolio__item-title">
                 This is portfolio item title
@@ -76,7 +76,7 @@ export const Portfolio = () => {
                 </a>
                 <a
                   className="portfolio__item-img btn btn-primary"
-                  href={demo}
+                  href={demo}  target="_blank" rel="noopener noreferrer"
                 >
                   Live Demo
                 </a>
